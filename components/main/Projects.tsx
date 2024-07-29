@@ -15,11 +15,13 @@ const Projects = () => {
           src="/sorting_visualizer.png"
           title="Sorting Visualizer"
           description="Sorting visualizer made with react"
+          url="https://maximilianpepper.github.io/sortingvisualizer/"
         />
         <ProjectCard
           src="/shopping_cart.png"
-          title="Fake Store"
+          title="Fake Shop"
           description="A fake store with a shopping cart. Made using react, typescript and MUI"
+          url="https://maximilianpepper.github.io/shopping-cart/"
         />
       </div>
     </div>
