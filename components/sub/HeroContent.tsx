@@ -35,7 +35,7 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          Placeholder description
+          I&apos;m a full stack web developer.
         </motion.p>
       </div>
 
