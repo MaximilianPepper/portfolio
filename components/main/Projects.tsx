@@ -23,6 +23,12 @@ const Projects = () => {
           description="A fake store with a shopping cart. Made using react, typescript and MUI"
           url="https://maximilianpepper.github.io/shopping-cart/"
         />
+        <ProjectCard
+          src="/cv_maker.png"
+          title="Cv Maker"
+          description="A tool to make a basic cv with education and work experience."
+          url="https://maximilianpepper.github.io/cv-maker/"
+        />
       </div>
     </div>
   );
